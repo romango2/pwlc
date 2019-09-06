@@ -4,11 +4,10 @@
 /logs/
 /target/
 /temp/
-pge_*.zip
 *.trc
-*.jcoDestination
 /.settings/
 /.classpath
 /.project
 /doc/
 /.apt_generated/
+/*.class
